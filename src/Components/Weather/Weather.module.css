@@ -1,0 +1,25 @@
+.weather {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  border: 1px solid rgb(58, 166, 255);
+  border-radius: 20px;
+  padding: 10px;
+  background-color: rgb(244, 249, 253);
+}
+.title_weather {
+  border-bottom: 2px solid rgb(58, 166, 255);
+}
+.title_weather h2 {
+  font-size: 2em;
+  font-family: "Nunito", sans-serif;
+}
+
+.info_weather p {
+  font-size: 1.2em;
+  font-family: "Nunito", sans-serif;
+}
+.iconAndFeelsLike {
+  display: flex;
+  align-items: center;
+}
