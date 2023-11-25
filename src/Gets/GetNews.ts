@@ -5,7 +5,7 @@ export const getNews = async (
   setNoticias: React.Dispatch<React.SetStateAction<NewsType | undefined>>
 ) => {
   try {
-    fetch(`${endpointNews}top-headlines?country=us&apiKey=5ef7af9dfc974eed9036334d792098e0`, )
+    await fetch(`${endpointNews}top-headlines?country=us&apiKey=5ef7af9dfc974eed9036334d792098e0`, )
       .then((response) => {
         return response.json();
       })

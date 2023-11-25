@@ -4,7 +4,7 @@ export const getWeather = async (
   setTempo: React.Dispatch<React.SetStateAction<WeatherType | undefined>>
 ) => {
   try {
-    fetch(endpointWeather)
+    await fetch(endpointWeather)
       .then((response) => {
         return response.json();
       })

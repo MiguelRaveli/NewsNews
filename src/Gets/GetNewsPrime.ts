@@ -4,7 +4,7 @@ export const getNewsPrime = async (
   setNoticiasPrime: React.Dispatch<React.SetStateAction<NewsType | undefined>>
 ) => {
   try {
-    fetch(`${endpointNews}everything?q=a&apiKey=5ef7af9dfc974eed9036334d792098e0`)
+    await fetch(`${endpointNews}everything?q=a&apiKey=5ef7af9dfc974eed9036334d792098e0`)
       .then((response) => {
         return response.json();
       })
