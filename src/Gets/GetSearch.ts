@@ -1,5 +1,5 @@
 import axios from "axios";
-import { endpointNews, keyNews } from "../Keys/Keys";
+import { endpointNews } from "../Keys/Keys";
 import { NewsType } from "../Pages/Types/NewsType";
 type TSearch = {
   searchByText: string;
@@ -13,11 +13,10 @@ export const getSearch = async ({
   setSearchTextResult,
 }: TSearch) => {
   try {
-    const res = await axios.get(`${endpointNews}everything?q=${searchByText}`, {
-      headers: {
-        "X-api-key": keyNews,
-      },
-    });
+    const res = await axios.get(
+      `${endpointNews}everything?q=${searchByText}&apiKey=5ef7af9dfc974eed9036334d792098e0`,
+      {}
+    );
     const data = res.data;
     setSearchTextResult(data);
     console.log(data);
