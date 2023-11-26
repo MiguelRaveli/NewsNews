@@ -1,27 +1,35 @@
-# React + TypeScript + Vite
+# NewsHub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo ao **NewsNews**! Este é um site de notícias que oferece uma experiência informativa e prática. Com notícias atualizadas, previsão do tempo e um sistema de pesquisa eficiente, estamos comprometidos em mantê-lo informado de maneira conveniente.
 
-Currently, two official plugins are available:
+## Funcionalidades Principais
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Notícias Atualizadas:** Mantenha-se informado com as últimas notícias em diversas categorias, desde política até entretenimento.
 
-## Expanding the ESLint configuration
+- **Previsão do Tempo:** Verifique a temperaturaw diretamente na página inicial.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- **Visualização Individual de Notícias:** Clique em uma notícia para ler o artigo completo em uma página dedicada.
 
-- Configure the top-level `parserOptions` property like this:
+- **Sistema de Pesquisa:** Encontre notícias específicas digitando palavras-chave na barra de pesquisa.
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+## Tecnologias Utilizadas
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Este site foi desenvolvido utilizando:
+
+- [React](https://reactjs.org/): Uma biblioteca JavaScript para construção de interfaces de usuário.
+- [Next.js](https://nextjs.org/): Um framework React para construção de aplicativos web escaláveis.
+- [TypeScript](https://www.typescriptlang.org/): Uma linguagem de programação que adiciona tipagem estática ao JavaScript.
+- [NewsAPI](https://newsapi.org/): Uma API de notícias que fornece acesso a uma ampla variedade de fontes e artigos.
+
+## Como Usar
+
+1. Na página inicial, confira as notícias destacadas e a previsão do tempo para sua cidade.
+
+2. Clique em uma notícia para ler o artigo completo.
+
+3. Utilize a barra de pesquisa para encontrar notícias específicas por palavra-chave.
+
+## Contato
+
+Se você tiver alguma dúvida, sugestão ou problema, não hesite em entrar em contato conosco em [miguel.raveli.g@gmail.com].
+
