@@ -29,7 +29,7 @@ Este site foi desenvolvido utilizando:
 
 3. Utilize a barra de pesquisa para encontrar notícias específicas por palavra-chave.
 
-## Fotos
+## Fotos & Vídeos
 
 ![primeira imagem](https://github.com/MiguelRaveli/NewsNews/assets/86502825/7ae6e493-5adc-44a7-ae2d-0325a889a12e)
 
@@ -38,6 +38,8 @@ Este site foi desenvolvido utilizando:
 ![segunda imagem](https://github.com/MiguelRaveli/NewsNews/assets/86502825/34af1d80-2099-455a-9418-4dcc16c4a1cc)
 
 ![terceira imagem](https://github.com/MiguelRaveli/NewsNews/assets/86502825/78c6bbbd-7038-4421-b3c0-7e103ae73656)
+
+https://github.com/MiguelRaveli/NewsNews/assets/86502825/be59d5ef-0e64-4a2c-91ea-7cae24635fb7
 
 ## Contato
 
