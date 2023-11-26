@@ -1,4 +1,4 @@
-# NewsHub
+# NewsNews
 
 Bem-vindo ao **NewsNews**! Este é um site de notícias que oferece uma experiência informativa e prática. Com notícias atualizadas, previsão do tempo e um sistema de pesquisa eficiente, estamos comprometidos em mantê-lo informado de maneira conveniente.
 
