@@ -39,7 +39,13 @@ Este site foi desenvolvido utilizando:
 
 ![terceira imagem](https://github.com/MiguelRaveli/NewsNews/assets/86502825/78c6bbbd-7038-4421-b3c0-7e103ae73656)
 
-https://github.com/MiguelRaveli/NewsNews/assets/86502825/be59d5ef-0e64-4a2c-91ea-7cae24635fb7
+https://github.com/MiguelRaveli/NewsNews/assets/86502825/622e41a6-56d4-4943-8d1a-89a9c2a456ff
+
+https://github.com/MiguelRaveli/NewsNews/assets/86502825/2e817f0e-cb3c-4125-87e8-689cafe97837
+
+https://github.com/MiguelRaveli/NewsNews/assets/86502825/6b52a48d-0e08-4fdd-af6d-487f8bbb218d
+
+https://github.com/MiguelRaveli/NewsNews/assets/86502825/b8fda210-1dda-4bae-a3e7-700c8a2f8623
 
 ## Contato
 
