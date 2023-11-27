@@ -17,7 +17,6 @@ Bem-vindo ao **NewsNews**! Este é um site de notícias que oferece uma experiê
 Este site foi desenvolvido utilizando:
 
 - [React](https://reactjs.org/): Uma biblioteca JavaScript para construção de interfaces de usuário.
-- [Next.js](https://nextjs.org/): Um framework React para construção de aplicativos web escaláveis.
 - [TypeScript](https://www.typescriptlang.org/): Uma linguagem de programação que adiciona tipagem estática ao JavaScript.
 - [NewsAPI](https://newsapi.org/): Uma API de notícias que fornece acesso a uma ampla variedade de fontes e artigos.
 
